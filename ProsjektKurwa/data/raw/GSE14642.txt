@@ -1,0 +1,2480 @@
+^SAMPLE = GSM365496
+!Sample_title = PBMCs_EG_before exercise_01
+!Sample_geo_accession = GSM365496
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 11
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_AG_9788
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365496/suppl/GSM365496.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	91.84845
+1053_at	255.06387
+117_at	456.61188
+121_at	45.528454
+1255_g_at	3.6479201
+1294_at	1002.1618
+1316_at	9.893072
+1320_at	5.7954817
+1405_i_at	14311.42
+1431_at	7.5233054
+1438_at	3.667779
+1487_at	347.0852
+1494_f_at	5.6628556
+1552256_a_at	275.94397
+1552257_a_at	528.79095
+1552258_at	25.931286
+1552261_at	7.385136
+1552263_at	1005.39386
+1552264_a_at	1739.0295
+1552266_at	6.9445
+!sample_table_end
+^SAMPLE = GSM365497
+!Sample_title = PBMCs_EG_after exercise_01
+!Sample_geo_accession = GSM365497
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 11
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_AG_9788
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365497/suppl/GSM365497.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	88.2332
+1053_at	274.86313
+117_at	434.97412
+121_at	46.47589
+1255_g_at	3.7584195
+1294_at	772.0448
+1316_at	10.775656
+1320_at	6.212857
+1405_i_at	17477.79
+1431_at	8.03254
+1438_at	3.7571728
+1487_at	369.32413
+1494_f_at	5.8180733
+1552256_a_at	212.79694
+1552257_a_at	437.70966
+1552258_at	20.672451
+1552261_at	7.613363
+1552263_at	1314.8804
+1552264_a_at	2052.0547
+1552266_at	7.5981503
+!sample_table_end
+^SAMPLE = GSM365498
+!Sample_title = PBMCs_EG_before exercise_02
+!Sample_geo_accession = GSM365498
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_CN_4649
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365498/suppl/GSM365498.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	105.34969
+1053_at	203.75154
+117_at	211.28552
+121_at	46.062164
+1255_g_at	3.7773385
+1294_at	1394.6517
+1316_at	10.237135
+1320_at	6.1231804
+1405_i_at	16518.533
+1431_at	7.9641533
+1438_at	3.7877321
+1487_at	222.486
+1494_f_at	5.783849
+1552256_a_at	190.42897
+1552257_a_at	585.7261
+1552258_at	10.23976
+1552261_at	7.8490887
+1552263_at	654.3324
+1552264_a_at	1427.2544
+1552266_at	7.4641733
+!sample_table_end
+^SAMPLE = GSM365499
+!Sample_title = PBMCs_EG_after exercise_02
+!Sample_geo_accession = GSM365499
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_CN_4649
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365499/suppl/GSM365499.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	100.216545
+1053_at	217.96576
+117_at	459.51782
+121_at	46.09255
+1255_g_at	3.7760117
+1294_at	1206.5193
+1316_at	10.495308
+1320_at	6.135827
+1405_i_at	18555.2
+1431_at	7.681169
+1438_at	3.7661724
+1487_at	337.4362
+1494_f_at	5.9082875
+1552256_a_at	201.04097
+1552257_a_at	388.59674
+1552258_at	26.112677
+1552261_at	7.6074476
+1552263_at	1100.0261
+1552264_a_at	1962.4619
+1552266_at	7.535272
+!sample_table_end
+^SAMPLE = GSM365500
+!Sample_title = PBMCs_EG_before exercise_03
+!Sample_geo_accession = GSM365500
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_DS_2467
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365500/suppl/GSM365500.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	133.41264
+1053_at	185.55232
+117_at	397.38214
+121_at	45.405617
+1255_g_at	3.6222136
+1294_at	1006.3241
+1316_at	9.916024
+1320_at	6.066919
+1405_i_at	14393.458
+1431_at	7.4379725
+1438_at	3.6980305
+1487_at	327.75977
+1494_f_at	5.9904137
+1552256_a_at	207.34555
+1552257_a_at	427.8522
+1552258_at	20.281046
+1552261_at	7.362486
+1552263_at	760.6972
+1552264_a_at	1494.3431
+1552266_at	7.07586
+!sample_table_end
+^SAMPLE = GSM365501
+!Sample_title = PBMCs_EG_after exercise_03
+!Sample_geo_accession = GSM365501
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_DS_2467
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365501/suppl/GSM365501.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	90.896
+1053_at	201.67508
+117_at	426.02142
+121_at	45.835304
+1255_g_at	3.712516
+1294_at	949.18835
+1316_at	10.15828
+1320_at	6.068997
+1405_i_at	15713.712
+1431_at	7.9360256
+1438_at	3.7590668
+1487_at	340.29962
+1494_f_at	5.9035807
+1552256_a_at	185.55888
+1552257_a_at	460.59467
+1552258_at	17.89558
+1552261_at	7.48212
+1552263_at	1287.8345
+1552264_a_at	2018.2877
+1552266_at	7.3430624
+!sample_table_end
+^SAMPLE = GSM365502
+!Sample_title = PBMCs_EG_before exercise_04
+!Sample_geo_accession = GSM365502
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 8
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_GI_2177
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365502/suppl/GSM365502.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	134.78131
+1053_at	170.15605
+117_at	592.1136
+121_at	45.065643
+1255_g_at	3.642618
+1294_at	1258.5546
+1316_at	9.916503
+1320_at	5.72947
+1405_i_at	11770.72
+1431_at	7.4596477
+1438_at	3.7100267
+1487_at	336.4922
+1494_f_at	5.6058984
+1552256_a_at	158.63408
+1552257_a_at	451.86887
+1552258_at	19.936852
+1552261_at	7.0601487
+1552263_at	1105.1484
+1552264_a_at	1795.7103
+1552266_at	6.891731
+!sample_table_end
+^SAMPLE = GSM365503
+!Sample_title = PBMCs_EG_after exercise_04
+!Sample_geo_accession = GSM365503
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 8
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_GI_2177
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365503/suppl/GSM365503.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	100.961136
+1053_at	172.4665
+117_at	577.0262
+121_at	45.579556
+1255_g_at	3.6721046
+1294_at	993.7397
+1316_at	9.954793
+1320_at	5.8560424
+1405_i_at	13138.863
+1431_at	7.567212
+1438_at	4.2592044
+1487_at	352.68268
+1494_f_at	5.6960444
+1552256_a_at	130.8787
+1552257_a_at	415.772
+1552258_at	17.222038
+1552261_at	7.446526
+1552263_at	1346.071
+1552264_a_at	2029.9097
+1552266_at	7.0471525
+!sample_table_end
+^SAMPLE = GSM365504
+!Sample_title = PBMCs_EG_before exercise_05
+!Sample_geo_accession = GSM365504
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_GJ_8370
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365504/suppl/GSM365504.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	99.826385
+1053_at	219.69089
+117_at	824.4544
+121_at	46.527367
+1255_g_at	3.8871264
+1294_at	759.74585
+1316_at	11.226474
+1320_at	6.536998
+1405_i_at	12094.002
+1431_at	7.8474917
+1438_at	3.985278
+1487_at	338.0707
+1494_f_at	6.2628555
+1552256_a_at	172.56499
+1552257_a_at	313.5051
+1552258_at	22.723717
+1552261_at	7.877095
+1552263_at	1037.68
+1552264_a_at	1852.5137
+1552266_at	8.042261
+!sample_table_end
+^SAMPLE = GSM365505
+!Sample_title = PBMCs_EG_after exercise_05
+!Sample_geo_accession = GSM365505
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_GJ_8370
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365505/suppl/GSM365505.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	91.37413
+1053_at	200.66278
+117_at	980.4717
+121_at	45.750652
+1255_g_at	3.6784883
+1294_at	791.38806
+1316_at	10.06476
+1320_at	5.9198027
+1405_i_at	12874.216
+1431_at	7.5143867
+1438_at	3.741286
+1487_at	338.47366
+1494_f_at	5.9587355
+1552256_a_at	141.62701
+1552257_a_at	304.37967
+1552258_at	20.39439
+1552261_at	7.4329047
+1552263_at	1341.0061
+1552264_a_at	2013.235
+1552266_at	7.1170754
+!sample_table_end
+^SAMPLE = GSM365506
+!Sample_title = PBMCs_EG_before exercise_06
+!Sample_geo_accession = GSM365506
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_LB_6693
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365506/suppl/GSM365506.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	99.68949
+1053_at	199.24506
+117_at	223.86841
+121_at	48.615997
+1255_g_at	3.659784
+1294_at	844.81085
+1316_at	10.096611
+1320_at	5.834108
+1405_i_at	10902.02
+1431_at	7.3498783
+1438_at	3.716919
+1487_at	232.1975
+1494_f_at	5.826546
+1552256_a_at	195.8644
+1552257_a_at	484.112
+1552258_at	21.380772
+1552261_at	7.321281
+1552263_at	813.059
+1552264_a_at	1486.096
+1552266_at	6.973126
+!sample_table_end
+^SAMPLE = GSM365507
+!Sample_title = PBMCs_EG_after exercise_06
+!Sample_geo_accession = GSM365507
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_LB_6693
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365507/suppl/GSM365507.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	101.41357
+1053_at	193.88184
+117_at	308.82446
+121_at	45.97676
+1255_g_at	3.651559
+1294_at	910.3614
+1316_at	9.766113
+1320_at	5.82284
+1405_i_at	15046.269
+1431_at	7.4862747
+1438_at	3.673401
+1487_at	269.4024
+1494_f_at	5.6813216
+1552256_a_at	219.6797
+1552257_a_at	384.363
+1552258_at	24.137838
+1552261_at	7.404256
+1552263_at	1038.9773
+1552264_a_at	1701.5868
+1552266_at	7.019835
+!sample_table_end
+^SAMPLE = GSM365508
+!Sample_title = PBMCs_EG_before exercise_07
+!Sample_geo_accession = GSM365508
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_LS_6711
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365508/suppl/GSM365508.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	85.85385
+1053_at	192.71771
+117_at	357.97382
+121_at	46.244244
+1255_g_at	3.650807
+1294_at	987.4306
+1316_at	10.1211
+1320_at	5.8189473
+1405_i_at	13078.709
+1431_at	8.785081
+1438_at	3.6728072
+1487_at	260.77658
+1494_f_at	5.6715646
+1552256_a_at	184.50516
+1552257_a_at	419.07574
+1552258_at	20.584028
+1552261_at	7.357684
+1552263_at	756.2714
+1552264_a_at	1519.4185
+1552266_at	6.9994354
+!sample_table_end
+^SAMPLE = GSM365509
+!Sample_title = PBMCs_EG_after exercise_07
+!Sample_geo_accession = GSM365509
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_LS_6711
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365509/suppl/GSM365509.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	99.45648
+1053_at	146.73228
+117_at	361.7394
+121_at	47.20628
+1255_g_at	3.841524
+1294_at	820.9299
+1316_at	11.247735
+1320_at	6.510871
+1405_i_at	14391.07
+1431_at	7.775765
+1438_at	3.848302
+1487_at	315.78027
+1494_f_at	5.8951454
+1552256_a_at	173.67377
+1552257_a_at	385.75583
+1552258_at	25.269106
+1552261_at	7.695558
+1552263_at	814.07764
+1552264_a_at	1463.4847
+1552266_at	7.565393
+!sample_table_end
+^SAMPLE = GSM365510
+!Sample_title = PBMCs_EG_before exercise_08
+!Sample_geo_accession = GSM365510
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_NN_6641
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365510/suppl/GSM365510.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	101.327995
+1053_at	202.75668
+117_at	478.46524
+121_at	51.33648
+1255_g_at	3.7669866
+1294_at	1001.6896
+1316_at	10.552652
+1320_at	6.2277355
+1405_i_at	16374.05
+1431_at	7.660144
+1438_at	3.850685
+1487_at	292.10995
+1494_f_at	6.1196895
+1552256_a_at	198.66875
+1552257_a_at	464.68225
+1552258_at	21.28293
+1552261_at	7.6873775
+1552263_at	936.6477
+1552264_a_at	1762.8445
+1552266_at	7.549893
+!sample_table_end
+^SAMPLE = GSM365511
+!Sample_title = PBMCs_EG_after exercise_08
+!Sample_geo_accession = GSM365511
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_NN_6641
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365511/suppl/GSM365511.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	99.92704
+1053_at	210.37268
+117_at	538.48615
+121_at	50.624645
+1255_g_at	3.75959
+1294_at	895.88214
+1316_at	10.342962
+1320_at	6.246206
+1405_i_at	17079.889
+1431_at	7.7050004
+1438_at	3.8673842
+1487_at	324.7336
+1494_f_at	6.0734177
+1552256_a_at	141.5841
+1552257_a_at	406.74347
+1552258_at	19.211857
+1552261_at	8.2976
+1552263_at	1112.8179
+1552264_a_at	1887.4156
+1552266_at	7.590093
+!sample_table_end
+^SAMPLE = GSM365512
+!Sample_title = PBMCs_EG_before exercise_09
+!Sample_geo_accession = GSM365512
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_PN_1290
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365512/suppl/GSM365512.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	158.49724
+1053_at	190.62582
+117_at	542.06683
+121_at	45.410854
+1255_g_at	3.6734145
+1294_at	945.9319
+1316_at	10.035662
+1320_at	5.9024167
+1405_i_at	14885.873
+1431_at	7.4172487
+1438_at	3.728243
+1487_at	347.66983
+1494_f_at	5.736622
+1552256_a_at	228.9465
+1552257_a_at	379.16696
+1552258_at	21.3881
+1552261_at	7.441126
+1552263_at	1034.1473
+1552264_a_at	1793.6698
+1552266_at	7.098073
+!sample_table_end
+^SAMPLE = GSM365513
+!Sample_title = PBMCs_EG_after exercise_09
+!Sample_geo_accession = GSM365513
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 9
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_PN_1290
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365513/suppl/GSM365513.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	199.07227
+1053_at	170.7927
+117_at	556.0696
+121_at	43.830177
+1255_g_at	3.5442796
+1294_at	939.8766
+1316_at	9.736926
+1320_at	5.5982976
+1405_i_at	12602.712
+1431_at	6.790002
+1438_at	3.5830772
+1487_at	330.3076
+1494_f_at	5.458682
+1552256_a_at	194.63246
+1552257_a_at	399.13098
+1552258_at	15.491922
+1552261_at	7.105076
+1552263_at	920.73944
+1552264_a_at	1869.3123
+1552266_at	6.5505066
+!sample_table_end
+^SAMPLE = GSM365514
+!Sample_title = PBMCs_EG_before exercise_10
+!Sample_geo_accession = GSM365514
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_pre_SA_1912
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365514/suppl/GSM365514.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	145.94708
+1053_at	197.57544
+117_at	451.56668
+121_at	44.859196
+1255_g_at	3.6069388
+1294_at	955.61884
+1316_at	9.803284
+1320_at	5.669991
+1405_i_at	12371.618
+1431_at	7.387984
+1438_at	3.6850986
+1487_at	334.26767
+1494_f_at	5.6216483
+1552256_a_at	227.94116
+1552257_a_at	382.13763
+1552258_at	30.364779
+1552261_at	7.270332
+1552263_at	692.5177
+1552264_a_at	1823.8716
+1552266_at	6.7846403
+!sample_table_end
+^SAMPLE = GSM365515
+!Sample_title = PBMCs_EG_after exercise_10
+!Sample_geo_accession = GSM365515
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Early girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 10
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = EG_peak_SA_1912
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365515/suppl/GSM365515.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	103.07765
+1053_at	198.15657
+117_at	611.053
+121_at	44.438396
+1255_g_at	3.5861838
+1294_at	884.27954
+1316_at	9.609582
+1320_at	5.607208
+1405_i_at	13439.017
+1431_at	7.1621633
+1438_at	3.7531142
+1487_at	370.081
+1494_f_at	5.558557
+1552256_a_at	238.11104
+1552257_a_at	380.2111
+1552258_at	19.651045
+1552261_at	7.294458
+1552263_at	1139.4669
+1552264_a_at	1899.73
+1552266_at	6.845254
+!sample_table_end
+^SAMPLE = GSM365516
+!Sample_title = PBMCs_LG_before exercise_11
+!Sample_geo_accession = GSM365516
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 16
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_BB_2205
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365516/suppl/GSM365516.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	100.183334
+1053_at	193.21474
+117_at	2104.4666
+121_at	45.41006
+1255_g_at	3.6647716
+1294_at	1264.6024
+1316_at	9.654368
+1320_at	5.8084164
+1405_i_at	9604.013
+1431_at	7.2605653
+1438_at	3.6981423
+1487_at	476.48248
+1494_f_at	5.6877217
+1552256_a_at	341.79272
+1552257_a_at	543.5085
+1552258_at	21.88751
+1552261_at	7.4265876
+1552263_at	1221.2628
+1552264_a_at	2235.1587
+1552266_at	6.9126043
+!sample_table_end
+^SAMPLE = GSM365517
+!Sample_title = PBMCs_LG_after exercise_11
+!Sample_geo_accession = GSM365517
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 16
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_BB_2205
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365517/suppl/GSM365517.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	104.07845
+1053_at	206.70673
+117_at	1976.5264
+121_at	44.73284
+1255_g_at	3.6186848
+1294_at	1136.0028
+1316_at	9.726205
+1320_at	5.7685003
+1405_i_at	11058.199
+1431_at	7.127148
+1438_at	3.9509013
+1487_at	426.01413
+1494_f_at	5.5530915
+1552256_a_at	240.65839
+1552257_a_at	463.29498
+1552258_at	16.86425
+1552261_at	7.100044
+1552263_at	1369.4702
+1552264_a_at	2448.29
+1552266_at	6.903183
+!sample_table_end
+^SAMPLE = GSM365518
+!Sample_title = PBMCs_LG_before exercise_12
+!Sample_geo_accession = GSM365518
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_FS_7955
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365518/suppl/GSM365518.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	105.609215
+1053_at	215.79414
+117_at	578.544
+121_at	45.53089
+1255_g_at	3.6630676
+1294_at	875.3869
+1316_at	10.617247
+1320_at	5.864496
+1405_i_at	15836.971
+1431_at	7.4882383
+1438_at	3.7487943
+1487_at	280.15976
+1494_f_at	5.743187
+1552256_a_at	240.3444
+1552257_a_at	463.12106
+1552258_at	21.602573
+1552261_at	7.293601
+1552263_at	1032.8131
+1552264_a_at	1846.6963
+1552266_at	7.0560746
+!sample_table_end
+^SAMPLE = GSM365519
+!Sample_title = PBMCs_LG_after exercise_12
+!Sample_geo_accession = GSM365519
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_FS_7955
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365519/suppl/GSM365519.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	101.341995
+1053_at	198.88594
+117_at	484.3329
+121_at	45.557865
+1255_g_at	3.6586978
+1294_at	958.941
+1316_at	10.485574
+1320_at	5.8412943
+1405_i_at	20014.332
+1431_at	7.371855
+1438_at	3.7046719
+1487_at	272.7794
+1494_f_at	6.3039756
+1552256_a_at	161.93988
+1552257_a_at	393.02255
+1552258_at	39.556187
+1552261_at	7.419969
+1552263_at	1243.3444
+1552264_a_at	1868.9786
+1552266_at	7.012317
+!sample_table_end
+^SAMPLE = GSM365520
+!Sample_title = PBMCs_LG_before exercise_13
+!Sample_geo_accession = GSM365520
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_GR_1886
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365520/suppl/GSM365520.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	122.44539
+1053_at	187.4396
+117_at	1634.9996
+121_at	45.29678
+1255_g_at	3.61278
+1294_at	930.1518
+1316_at	9.505297
+1320_at	5.729325
+1405_i_at	7419.755
+1431_at	7.1763716
+1438_at	3.6378012
+1487_at	390.10315
+1494_f_at	5.624173
+1552256_a_at	203.6626
+1552257_a_at	385.9155
+1552258_at	23.96725
+1552261_at	7.3178988
+1552263_at	1087.1025
+1552264_a_at	2103.3525
+1552266_at	6.838773
+!sample_table_end
+^SAMPLE = GSM365521
+!Sample_title = PBMCs_LG_after exercise_13
+!Sample_geo_accession = GSM365521
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_GR_1886
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365521/suppl/GSM365521.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	99.83097
+1053_at	174.75392
+117_at	1654.3481
+121_at	45.425625
+1255_g_at	3.6225092
+1294_at	931.7297
+1316_at	10.137644
+1320_at	5.6969266
+1405_i_at	10161.04
+1431_at	7.1078405
+1438_at	3.638721
+1487_at	436.9615
+1494_f_at	5.6298375
+1552256_a_at	226.0949
+1552257_a_at	409.94647
+1552258_at	18.106064
+1552261_at	7.179083
+1552263_at	1263.4059
+1552264_a_at	2215.9263
+1552266_at	6.870861
+!sample_table_end
+^SAMPLE = GSM365522
+!Sample_title = PBMCs_LG_before exercise_14
+!Sample_geo_accession = GSM365522
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_GT_6962
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365522/suppl/GSM365522.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	144.48889
+1053_at	218.19548
+117_at	1412.866
+121_at	45.439472
+1255_g_at	3.6603827
+1294_at	1020.66425
+1316_at	9.917297
+1320_at	5.8629107
+1405_i_at	11318.494
+1431_at	7.4950156
+1438_at	15.70917
+1487_at	401.1343
+1494_f_at	5.6886296
+1552256_a_at	361.31067
+1552257_a_at	488.8201
+1552258_at	21.73083
+1552261_at	7.5868726
+1552263_at	1332.4746
+1552264_a_at	2343.1753
+1552266_at	7.0375233
+!sample_table_end
+^SAMPLE = GSM365523
+!Sample_title = PBMCs_LG_after exercise_14
+!Sample_geo_accession = GSM365523
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_GT_6962
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365523/suppl/GSM365523.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	113.140854
+1053_at	235.55902
+117_at	1515.9211
+121_at	45.245323
+1255_g_at	3.6486
+1294_at	964.50745
+1316_at	9.766719
+1320_at	5.791089
+1405_i_at	13614.206
+1431_at	7.339656
+1438_at	9.517217
+1487_at	384.31677
+1494_f_at	5.9882364
+1552256_a_at	279.93707
+1552257_a_at	430.83307
+1552258_at	32.275856
+1552261_at	7.3657928
+1552263_at	1894.2576
+1552264_a_at	2642.2249
+1552266_at	6.9338098
+!sample_table_end
+^SAMPLE = GSM365524
+!Sample_title = PBMCs_LG_before exercise_15
+!Sample_geo_accession = GSM365524
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_KK_3400
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365524/suppl/GSM365524.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	96.42637
+1053_at	190.7331
+117_at	705.0045
+121_at	45.884216
+1255_g_at	3.7355075
+1294_at	912.3838
+1316_at	10.210979
+1320_at	6.060242
+1405_i_at	14230.8
+1431_at	7.700601
+1438_at	3.7709837
+1487_at	324.2913
+1494_f_at	5.9701934
+1552256_a_at	222.441
+1552257_a_at	367.17032
+1552258_at	20.792217
+1552261_at	7.6401196
+1552263_at	1242.8324
+1552264_a_at	1807.3165
+1552266_at	7.285998
+!sample_table_end
+^SAMPLE = GSM365525
+!Sample_title = PBMCs_LG_after exercise_15
+!Sample_geo_accession = GSM365525
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_KK_3400
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365525/suppl/GSM365525.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	96.41126
+1053_at	202.56839
+117_at	659.0201
+121_at	45.885338
+1255_g_at	3.7670178
+1294_at	789.17883
+1316_at	10.296926
+1320_at	6.1078377
+1405_i_at	17237.16
+1431_at	7.587917
+1438_at	3.7611158
+1487_at	318.32376
+1494_f_at	5.865917
+1552256_a_at	178.48949
+1552257_a_at	340.85706
+1552258_at	21.378998
+1552261_at	7.7864394
+1552263_at	1679.1676
+1552264_a_at	2248.5867
+1552266_at	7.2338943
+!sample_table_end
+^SAMPLE = GSM365526
+!Sample_title = PBMCs_LG_before exercise_16
+!Sample_geo_accession = GSM365526
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_KM_4779
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365526/suppl/GSM365526.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	185.89926
+1053_at	191.42096
+117_at	128.47922
+121_at	44.83542
+1255_g_at	3.6977165
+1294_at	1111.0083
+1316_at	9.953939
+1320_at	5.8603916
+1405_i_at	24194.512
+1431_at	8.114395
+1438_at	3.716945
+1487_at	220.6729
+1494_f_at	5.7429204
+1552256_a_at	79.18402
+1552257_a_at	308.91675
+1552258_at	21.045977
+1552261_at	7.274847
+1552263_at	846.58746
+1552264_a_at	1464.0189
+1552266_at	6.984106
+!sample_table_end
+^SAMPLE = GSM365527
+!Sample_title = PBMCs_LG_after exercise_16
+!Sample_geo_accession = GSM365527
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_KM_4779
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365527/suppl/GSM365527.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	109.21398
+1053_at	202.80736
+117_at	351.30774
+121_at	43.83945
+1255_g_at	3.7259548
+1294_at	1090.2755
+1316_at	10.06803
+1320_at	6.020524
+1405_i_at	25155.887
+1431_at	7.7598677
+1438_at	3.7562375
+1487_at	253.70114
+1494_f_at	5.7376423
+1552256_a_at	106.87817
+1552257_a_at	324.57288
+1552258_at	42.388107
+1552261_at	7.573604
+1552263_at	1475.8539
+1552264_a_at	2103.945
+1552266_at	7.400368
+!sample_table_end
+^SAMPLE = GSM365528
+!Sample_title = PBMCs_LG_before exercise_17
+!Sample_geo_accession = GSM365528
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_LC_7433
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365528/suppl/GSM365528.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	130.04887
+1053_at	213.81003
+117_at	458.93283
+121_at	50.074005
+1255_g_at	3.7189608
+1294_at	948.9092
+1316_at	10.227744
+1320_at	6.044163
+1405_i_at	14463.714
+1431_at	7.599843
+1438_at	3.7566788
+1487_at	342.3646
+1494_f_at	6.061941
+1552256_a_at	191.18076
+1552257_a_at	395.64645
+1552258_at	17.711325
+1552261_at	7.5234065
+1552263_at	1002.1711
+1552264_a_at	1743.8206
+1552266_at	7.2963386
+!sample_table_end
+^SAMPLE = GSM365529
+!Sample_title = PBMCs_LG_after exercise_17
+!Sample_geo_accession = GSM365529
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_LC_7433
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365529/suppl/GSM365529.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	99.60261
+1053_at	213.58162
+117_at	661.5853
+121_at	47.064384
+1255_g_at	3.7390304
+1294_at	712.60944
+1316_at	10.208692
+1320_at	6.0324793
+1405_i_at	15385.215
+1431_at	7.641649
+1438_at	3.8492506
+1487_at	375.68533
+1494_f_at	5.8916316
+1552256_a_at	154.97372
+1552257_a_at	382.89395
+1552258_at	18.708769
+1552261_at	7.6054
+1552263_at	1485.3319
+1552264_a_at	2024.8331
+1552266_at	7.211954
+!sample_table_end
+^SAMPLE = GSM365530
+!Sample_title = PBMCs_LG_before exercise_18
+!Sample_geo_accession = GSM365530
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_NB_3869
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365530/suppl/GSM365530.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	100.81818
+1053_at	199.9471
+117_at	366.94492
+121_at	45.68388
+1255_g_at	3.660966
+1294_at	1019.5577
+1316_at	10.018547
+1320_at	5.909319
+1405_i_at	11845.145
+1431_at	9.123919
+1438_at	3.6688292
+1487_at	242.98752
+1494_f_at	5.684709
+1552256_a_at	161.23479
+1552257_a_at	485.2677
+1552258_at	17.350952
+1552261_at	7.4202414
+1552263_at	989.8061
+1552264_a_at	1562.0349
+1552266_at	7.0756545
+!sample_table_end
+^SAMPLE = GSM365531
+!Sample_title = PBMCs_LG_after exercise_18
+!Sample_geo_accession = GSM365531
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 15
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_NB_3869
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365531/suppl/GSM365531.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	97.99333
+1053_at	214.16331
+117_at	825.64557
+121_at	45.312935
+1255_g_at	3.627784
+1294_at	1049.8864
+1316_at	9.899019
+1320_at	5.795343
+1405_i_at	9927.548
+1431_at	10.650705
+1438_at	5.024035
+1487_at	446.3476
+1494_f_at	5.6533947
+1552256_a_at	201.74155
+1552257_a_at	434.693
+1552258_at	20.456366
+1552261_at	7.3525534
+1552263_at	1288.3649
+1552264_a_at	1923.3514
+1552266_at	6.958423
+!sample_table_end
+^SAMPLE = GSM365532
+!Sample_title = PBMCs_LG_before exercise_19
+!Sample_geo_accession = GSM365532
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_PN_7156
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365532/suppl/GSM365532.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	109.012924
+1053_at	221.28671
+117_at	1105.8931
+121_at	44.979156
+1255_g_at	3.640034
+1294_at	1113.0967
+1316_at	9.843237
+1320_at	5.730371
+1405_i_at	10363.282
+1431_at	7.131582
+1438_at	3.7166297
+1487_at	424.88608
+1494_f_at	5.6228576
+1552256_a_at	212.90753
+1552257_a_at	497.04263
+1552258_at	15.005502
+1552261_at	7.3739967
+1552263_at	1273.8364
+1552264_a_at	2252.739
+1552266_at	6.888441
+!sample_table_end
+^SAMPLE = GSM365533
+!Sample_title = PBMCs_LG_after exercise_19
+!Sample_geo_accession = GSM365533
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_PN_7156
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365533/suppl/GSM365533.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	102.1082
+1053_at	218.16649
+117_at	894.7831
+121_at	45.470768
+1255_g_at	3.693754
+1294_at	1010.85236
+1316_at	9.933267
+1320_at	5.896298
+1405_i_at	14488.584
+1431_at	7.7450457
+1438_at	3.9723008
+1487_at	354.1395
+1494_f_at	5.7196336
+1552256_a_at	197.4967
+1552257_a_at	450.9832
+1552258_at	21.480665
+1552261_at	7.3911295
+1552263_at	1467.9902
+1552264_a_at	2272.4426
+1552266_at	7.0913453
+!sample_table_end
+^SAMPLE = GSM365534
+!Sample_title = PBMCs_LG_before exercise_20
+!Sample_geo_accession = GSM365534
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs before exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = before-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_pre_SB_1361
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365534/suppl/GSM365534.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	102.23676
+1053_at	200.958
+117_at	1157.8546
+121_at	45.675316
+1255_g_at	3.6775303
+1294_at	1004.9108
+1316_at	9.966877
+1320_at	5.8780766
+1405_i_at	20732.346
+1431_at	7.398512
+1438_at	3.6911142
+1487_at	340.5728
+1494_f_at	5.719543
+1552256_a_at	130.55025
+1552257_a_at	381.6643
+1552258_at	29.529171
+1552261_at	7.4571896
+1552263_at	1184.2068
+1552264_a_at	1839.7098
+1552266_at	6.994052
+!sample_table_end
+^SAMPLE = GSM365535
+!Sample_title = PBMCs_LG_after exercise_20
+!Sample_geo_accession = GSM365535
+!Sample_status = Public on Jun 17 2009
+!Sample_submission_date = Jan 29 2009
+!Sample_last_update_date = Aug 28 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = Late girls PBMCs after 30 min bout of exercise
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = PBMCs, healthy female, age 17
+!Sample_characteristics_ch1 = after-exercise
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = PBMCs were isolated using OptiPrep® Density Gradient Medium (SIGMA).  Total RNA was extracted using TRIzol®  reagent and purified using the RNeasy Midi columns method (Qiagen, Valencia, CA).
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = 4 μg total RNA was used as a template for double‑stranded cDNA synthesis. Single-stranded then double-stranded cDNA was synthesized from the poly A spike-in controls, and mRNA present in the isolated total RNA using the SuperScript Double-Stranded cDNA Synthesis Kit (Invitrogen Corp., Carlsbad, CA), and a T-7-oligo(dT) primer (Integrated DNA Technologies Inc.,Coralville,IA) that contains a T7 RNA polymerase promoter site added to it’s 3' end. A portion of the resulting double-stranded cDNA was used as a template to generate biotin-tagged cRNA from an in vitro transcription reaction (IVT), using the Affymetrix GeneChip® IVT Labeling Kit.
+!Sample_hyb_protocol = 10 µg of  fragmented target cRNA was hybridized at 45°C with rotation for 16 hours (Affymetrix GeneChip® Hybridization Oven 640) to probe sets present on an Affymetrix U133+2 arrays.
+!Sample_scan_protocol = The GeneChip® arrays were washed and then stained (SAPE, streptavidin-phycoerythrin) on an Affymetrix Fluidics Station 450, followed by scanning on a GeneChip® Scanner 3000.
+!Sample_description = LG_peak_SB_1361
+!Sample_data_processing = The results were quantified and analyzed using GCOS 1.4 software (Affymetrix, Inc.) using default values (Scaling Target Signal Intensity=500; Normalization, All probe sets; Parameters, all set at default values). The microarray data was analyzed using ArrayAssist® version 5.2.2 (STRATAGENE® ) using GC-RMA.
+!Sample_platform_id = GPL570
+!Sample_contact_name = Shlomit,,Radom-Aizik
+!Sample_contact_email = saizik@uci.edu
+!Sample_contact_phone = 949-824-2584
+!Sample_contact_laboratory = Pediatric Exercise and Genomics Research Center
+!Sample_contact_department = Pediatrics
+!Sample_contact_institute = University of California, Irvine
+!Sample_contact_address = 101 Academy
+!Sample_contact_city = Irvine
+!Sample_contact_state = CA
+!Sample_contact_zip/postal_code = 92617
+!Sample_contact_country = USA
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM365nnn/GSM365535/suppl/GSM365535.CEL.gz
+!Sample_relation = Reanalyzed by: GSE119087
+!Sample_series_id = GSE14642
+!Sample_data_row_count = 54675
+#ID_REF = 
+#VALUE = GC-RMA
+!sample_table_begin
+ID_REF	VALUE
+1007_s_at	105.57564
+1053_at	191.08606
+117_at	1441.4701
+121_at	45.44925
+1255_g_at	3.6486647
+1294_at	983.69495
+1316_at	10.169622
+1320_at	5.828318
+1405_i_at	20060.824
+1431_at	7.43432
+1438_at	3.7084973
+1487_at	403.55994
+1494_f_at	6.832696
+1552256_a_at	160.24657
+1552257_a_at	379.02515
+1552258_at	56.955875
+1552261_at	7.3894944
+1552263_at	1371.2646
+1552264_a_at	2045.3875
+1552266_at	7.0421114
+!sample_table_end

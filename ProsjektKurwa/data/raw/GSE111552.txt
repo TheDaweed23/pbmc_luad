@@ -1,0 +1,2144 @@
+^SAMPLE = GSM3034063
+!Sample_title = 1Pa: PBMC RNA_baseline_1
+!Sample_geo_accession = GSM3034063
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 27
+!Sample_characteristics_ch1 = height: 1.81
+!Sample_characteristics_ch1 = body weight: 84.8
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.127
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 48.7
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034063/suppl/GSM3034063_1Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034063/suppl/GSM3034063_1Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.77006
+TC01000002.hg.1	3.83806
+TC01000003.hg.1	4.17998
+TC01000004.hg.1	4.5278
+TC01000005.hg.1	10.5441
+TC01000006.hg.1	17.9588
+TC01000007.hg.1	16.8638
+TC01000008.hg.1	6.88423
+TC01000009.hg.1	4.81049
+TC01000010.hg.1	3.07847
+TC01000011.hg.1	4.46696
+TC01000012.hg.1	3.98249
+TC01000013.hg.1	18.0125
+TC01000014.hg.1	4.14375
+TC01000015.hg.1	4.54371
+TC01000016.hg.1	4.11982
+TC01000017.hg.1	3.59525
+TC01000018.hg.1	7.08546
+TC01000019.hg.1	3.67901
+TC01000020.hg.1	3.85576
+!sample_table_end
+^SAMPLE = GSM3034064
+!Sample_title = 2Pa: PBMC RNA_baseline_2
+!Sample_geo_accession = GSM3034064
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 19
+!Sample_characteristics_ch1 = height: 1.91
+!Sample_characteristics_ch1 = body weight: 100.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 5.230
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 52.0
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034064/suppl/GSM3034064_2Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034064/suppl/GSM3034064_2Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	7.89174
+TC01000002.hg.1	3.3725
+TC01000003.hg.1	2.96259
+TC01000004.hg.1	3.58259
+TC01000005.hg.1	7.30245
+TC01000006.hg.1	14.179
+TC01000007.hg.1	13.7119
+TC01000008.hg.1	7.15425
+TC01000009.hg.1	3.67628
+TC01000010.hg.1	3.642
+TC01000011.hg.1	4.93151
+TC01000012.hg.1	4.18201
+TC01000013.hg.1	12.6553
+TC01000014.hg.1	3.24085
+TC01000015.hg.1	4.33128
+TC01000016.hg.1	3.90749
+TC01000017.hg.1	3.20607
+TC01000018.hg.1	8.17799
+TC01000019.hg.1	3.71385
+TC01000020.hg.1	4.08291
+!sample_table_end
+^SAMPLE = GSM3034065
+!Sample_title = 3Pa: PBMC RNA_baseline_3
+!Sample_geo_accession = GSM3034065
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 21
+!Sample_characteristics_ch1 = height: 1.77
+!Sample_characteristics_ch1 = body weight: 80.0
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.968
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 49.6
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034065/suppl/GSM3034065_3Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034065/suppl/GSM3034065_3Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.57036
+TC01000002.hg.1	3.54533
+TC01000003.hg.1	2.772
+TC01000004.hg.1	3.03539
+TC01000005.hg.1	6.79645
+TC01000006.hg.1	14.3346
+TC01000007.hg.1	14.0642
+TC01000008.hg.1	8.28798
+TC01000009.hg.1	3.24571
+TC01000010.hg.1	3.16743
+TC01000011.hg.1	5.56224
+TC01000012.hg.1	3.891
+TC01000013.hg.1	11.026
+TC01000014.hg.1	3.50629
+TC01000015.hg.1	4.25886
+TC01000016.hg.1	4.01992
+TC01000017.hg.1	3.10052
+TC01000018.hg.1	8.58768
+TC01000019.hg.1	3.69347
+TC01000020.hg.1	4.07188
+!sample_table_end
+^SAMPLE = GSM3034066
+!Sample_title = 6Pa: PBMC RNA_baseline_4
+!Sample_geo_accession = GSM3034066
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 30
+!Sample_characteristics_ch1 = height: 1.79
+!Sample_characteristics_ch1 = body weight: 71.7
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.568
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 49.8
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034066/suppl/GSM3034066_6Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034066/suppl/GSM3034066_6Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	11.359
+TC01000002.hg.1	3.59007
+TC01000003.hg.1	3.22559
+TC01000004.hg.1	3.11728
+TC01000005.hg.1	10.8859
+TC01000006.hg.1	18.3467
+TC01000007.hg.1	17.2924
+TC01000008.hg.1	6.45835
+TC01000009.hg.1	4.13186
+TC01000010.hg.1	3.05209
+TC01000011.hg.1	4.7061
+TC01000012.hg.1	4.28423
+TC01000013.hg.1	16.3893
+TC01000014.hg.1	3.20473
+TC01000015.hg.1	4.20205
+TC01000016.hg.1	3.9843
+TC01000017.hg.1	3.37146
+TC01000018.hg.1	8.37522
+TC01000019.hg.1	3.9466
+TC01000020.hg.1	3.9034
+!sample_table_end
+^SAMPLE = GSM3034067
+!Sample_title = 7Pa: PBMC RNA_baseline_5
+!Sample_geo_accession = GSM3034067
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 22
+!Sample_characteristics_ch1 = height: 1.78
+!Sample_characteristics_ch1 = body weight: 66.9
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.280
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 49.0
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034067/suppl/GSM3034067_7Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034067/suppl/GSM3034067_7Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	11.448
+TC01000002.hg.1	3.78464
+TC01000003.hg.1	3.00322
+TC01000004.hg.1	3.14792
+TC01000005.hg.1	9.29464
+TC01000006.hg.1	16.9766
+TC01000007.hg.1	15.7093
+TC01000008.hg.1	8.35847
+TC01000009.hg.1	3.54504
+TC01000010.hg.1	3.18274
+TC01000011.hg.1	4.96549
+TC01000012.hg.1	4.01057
+TC01000013.hg.1	12.7024
+TC01000014.hg.1	3.29392
+TC01000015.hg.1	4.46051
+TC01000016.hg.1	5.98511
+TC01000017.hg.1	3.17814
+TC01000018.hg.1	8.17425
+TC01000019.hg.1	3.89729
+TC01000020.hg.1	3.8561
+!sample_table_end
+^SAMPLE = GSM3034068
+!Sample_title = 8Pa: PBMC RNA_baseline_6
+!Sample_geo_accession = GSM3034068
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 21
+!Sample_characteristics_ch1 = height: 1.90
+!Sample_characteristics_ch1 = body weight: 70.3
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.843
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 54.7
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034068/suppl/GSM3034068_8Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034068/suppl/GSM3034068_8Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.01199
+TC01000002.hg.1	3.93764
+TC01000003.hg.1	2.85867
+TC01000004.hg.1	3.30693
+TC01000005.hg.1	11.0333
+TC01000006.hg.1	18.8066
+TC01000007.hg.1	17.4791
+TC01000008.hg.1	7.38028
+TC01000009.hg.1	3.31346
+TC01000010.hg.1	3.43515
+TC01000011.hg.1	5.13899
+TC01000012.hg.1	3.96973
+TC01000013.hg.1	16.3236
+TC01000014.hg.1	3.92914
+TC01000015.hg.1	4.42848
+TC01000016.hg.1	4.60499
+TC01000017.hg.1	3.29672
+TC01000018.hg.1	8.03771
+TC01000019.hg.1	3.92408
+TC01000020.hg.1	3.99477
+!sample_table_end
+^SAMPLE = GSM3034069
+!Sample_title = 9Pa: PBMC RNA_baseline_7
+!Sample_geo_accession = GSM3034069
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 27
+!Sample_characteristics_ch1 = height: 1.81
+!Sample_characteristics_ch1 = body weight: 95.8
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.559
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 47.6
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034069/suppl/GSM3034069_9Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034069/suppl/GSM3034069_9Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.93535
+TC01000002.hg.1	3.83512
+TC01000003.hg.1	2.83377
+TC01000004.hg.1	3.18304
+TC01000005.hg.1	7.46368
+TC01000006.hg.1	14.9164
+TC01000007.hg.1	14.053
+TC01000008.hg.1	8.25547
+TC01000009.hg.1	3.15075
+TC01000010.hg.1	3.48696
+TC01000011.hg.1	5.488
+TC01000012.hg.1	3.96726
+TC01000013.hg.1	14.8418
+TC01000014.hg.1	3.36803
+TC01000015.hg.1	4.54936
+TC01000016.hg.1	4.12298
+TC01000017.hg.1	3.16769
+TC01000018.hg.1	8.1387
+TC01000019.hg.1	3.98464
+TC01000020.hg.1	3.91502
+!sample_table_end
+^SAMPLE = GSM3034070
+!Sample_title = 10Pa: PBMC RNA_baseline_8
+!Sample_geo_accession = GSM3034070
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 29
+!Sample_characteristics_ch1 = height: 1.65
+!Sample_characteristics_ch1 = body weight: 72.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.144
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 43.3
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034070/suppl/GSM3034070_10Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034070/suppl/GSM3034070_10Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	10.2973
+TC01000002.hg.1	3.42168
+TC01000003.hg.1	2.8351
+TC01000004.hg.1	3.27733
+TC01000005.hg.1	11.2696
+TC01000006.hg.1	18.2913
+TC01000007.hg.1	16.9122
+TC01000008.hg.1	7.3305
+TC01000009.hg.1	3.81913
+TC01000010.hg.1	3.12042
+TC01000011.hg.1	4.92401
+TC01000012.hg.1	3.895
+TC01000013.hg.1	15.6403
+TC01000014.hg.1	3.44186
+TC01000015.hg.1	4.47397
+TC01000016.hg.1	4.23952
+TC01000017.hg.1	3.05782
+TC01000018.hg.1	7.71355
+TC01000019.hg.1	3.84022
+TC01000020.hg.1	3.84385
+!sample_table_end
+^SAMPLE = GSM3034071
+!Sample_title = 12Pa: PBMC RNA_baseline_9
+!Sample_geo_accession = GSM3034071
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 28
+!Sample_characteristics_ch1 = height: 1.77
+!Sample_characteristics_ch1 = body weight: 85.1
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.379
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 51.5
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034071/suppl/GSM3034071_12Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034071/suppl/GSM3034071_12Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.48702
+TC01000002.hg.1	3.56937
+TC01000003.hg.1	2.97305
+TC01000004.hg.1	3.15567
+TC01000005.hg.1	8.60523
+TC01000006.hg.1	15.5007
+TC01000007.hg.1	14.412
+TC01000008.hg.1	8.42698
+TC01000009.hg.1	3.3728
+TC01000010.hg.1	2.93957
+TC01000011.hg.1	5.29916
+TC01000012.hg.1	4.01223
+TC01000013.hg.1	14.8094
+TC01000014.hg.1	3.34743
+TC01000015.hg.1	4.39875
+TC01000016.hg.1	4.24815
+TC01000017.hg.1	3.03508
+TC01000018.hg.1	8.09246
+TC01000019.hg.1	3.64112
+TC01000020.hg.1	3.80853
+!sample_table_end
+^SAMPLE = GSM3034072
+!Sample_title = 13Pa: PBMC RNA_baseline_10
+!Sample_geo_accession = GSM3034072
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 28
+!Sample_characteristics_ch1 = height: 1.64
+!Sample_characteristics_ch1 = body weight: 56.9
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.249
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 57.1
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034072/suppl/GSM3034072_13Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034072/suppl/GSM3034072_13Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.36848
+TC01000002.hg.1	3.56716
+TC01000003.hg.1	2.96392
+TC01000004.hg.1	3.3209
+TC01000005.hg.1	9.95517
+TC01000006.hg.1	17.454
+TC01000007.hg.1	15.8817
+TC01000008.hg.1	8.08813
+TC01000009.hg.1	3.03515
+TC01000010.hg.1	3.41351
+TC01000011.hg.1	4.67005
+TC01000012.hg.1	3.88889
+TC01000013.hg.1	16.5571
+TC01000014.hg.1	3.57178
+TC01000015.hg.1	4.49063
+TC01000016.hg.1	4.02254
+TC01000017.hg.1	2.92797
+TC01000018.hg.1	7.62118
+TC01000019.hg.1	3.93139
+TC01000020.hg.1	3.83278
+!sample_table_end
+^SAMPLE = GSM3034073
+!Sample_title = 14Pa: PBMC RNA_baseline_11
+!Sample_geo_accession = GSM3034073
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 28
+!Sample_characteristics_ch1 = height: 1.73
+!Sample_characteristics_ch1 = body weight: 89.0
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.802
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 42.7
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034073/suppl/GSM3034073_14Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034073/suppl/GSM3034073_14Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	5.63008
+TC01000002.hg.1	3.87899
+TC01000003.hg.1	3.08119
+TC01000004.hg.1	3.54723
+TC01000005.hg.1	5.92606
+TC01000006.hg.1	12.6873
+TC01000007.hg.1	12.1301
+TC01000008.hg.1	8.28277
+TC01000009.hg.1	3.31611
+TC01000010.hg.1	3.32454
+TC01000011.hg.1	7.52951
+TC01000012.hg.1	4.36073
+TC01000013.hg.1	11.2281
+TC01000014.hg.1	3.36932
+TC01000015.hg.1	4.84444
+TC01000016.hg.1	4.54382
+TC01000017.hg.1	3.43036
+TC01000018.hg.1	6.55489
+TC01000019.hg.1	3.87159
+TC01000020.hg.1	3.95955
+!sample_table_end
+^SAMPLE = GSM3034074
+!Sample_title = 15Pa: PBMC RNA_baseline_12
+!Sample_geo_accession = GSM3034074
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 27
+!Sample_characteristics_ch1 = height: 1.68
+!Sample_characteristics_ch1 = body weight: 55.3
+!Sample_characteristics_ch1 = vo2peak (l/min): 2.870
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 51.9
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034074/suppl/GSM3034074_15Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034074/suppl/GSM3034074_15Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.99296
+TC01000002.hg.1	3.84734
+TC01000003.hg.1	3.3372
+TC01000004.hg.1	3.26638
+TC01000005.hg.1	9.62046
+TC01000006.hg.1	17.2474
+TC01000007.hg.1	15.3848
+TC01000008.hg.1	7.36046
+TC01000009.hg.1	3.43594
+TC01000010.hg.1	3.80248
+TC01000011.hg.1	4.80615
+TC01000012.hg.1	4.35653
+TC01000013.hg.1	16.5566
+TC01000014.hg.1	3.30127
+TC01000015.hg.1	4.43287
+TC01000016.hg.1	4.03607
+TC01000017.hg.1	3.24209
+TC01000018.hg.1	7.5637
+TC01000019.hg.1	4.06761
+TC01000020.hg.1	3.91376
+!sample_table_end
+^SAMPLE = GSM3034075
+!Sample_title = 16Pa: PBMC RNA_baseline_13
+!Sample_geo_accession = GSM3034075
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 30
+!Sample_characteristics_ch1 = height: 1.74
+!Sample_characteristics_ch1 = body weight: 76.8
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.691
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 48.1
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034075/suppl/GSM3034075_16Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034075/suppl/GSM3034075_16Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.36725
+TC01000002.hg.1	3.47523
+TC01000003.hg.1	2.93412
+TC01000004.hg.1	3.36464
+TC01000005.hg.1	8.67053
+TC01000006.hg.1	15.573
+TC01000007.hg.1	14.4424
+TC01000008.hg.1	7.40531
+TC01000009.hg.1	3.01134
+TC01000010.hg.1	3.06277
+TC01000011.hg.1	5.12193
+TC01000012.hg.1	4.04057
+TC01000013.hg.1	14.4738
+TC01000014.hg.1	3.33725
+TC01000015.hg.1	4.14219
+TC01000016.hg.1	3.4371
+TC01000017.hg.1	3.38676
+TC01000018.hg.1	8.33388
+TC01000019.hg.1	3.6918
+TC01000020.hg.1	3.90706
+!sample_table_end
+^SAMPLE = GSM3034076
+!Sample_title = 17Pa: PBMC RNA_baseline_14
+!Sample_geo_accession = GSM3034076
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 22
+!Sample_characteristics_ch1 = height: 1.84
+!Sample_characteristics_ch1 = body weight: 95.5
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.925
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 51.6
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034076/suppl/GSM3034076_17Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034076/suppl/GSM3034076_17Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	7.55482
+TC01000002.hg.1	3.47469
+TC01000003.hg.1	3.34755
+TC01000004.hg.1	3.40489
+TC01000005.hg.1	8.76917
+TC01000006.hg.1	14.2665
+TC01000007.hg.1	14.1708
+TC01000008.hg.1	6.99973
+TC01000009.hg.1	2.98321
+TC01000010.hg.1	3.1157
+TC01000011.hg.1	5.51976
+TC01000012.hg.1	4.04261
+TC01000013.hg.1	16.0604
+TC01000014.hg.1	4.15817
+TC01000015.hg.1	4.36258
+TC01000016.hg.1	4.11189
+TC01000017.hg.1	3.36285
+TC01000018.hg.1	7.79002
+TC01000019.hg.1	3.88497
+TC01000020.hg.1	3.98436
+!sample_table_end
+^SAMPLE = GSM3034077
+!Sample_title = 18Pa: PBMC RNA_baseline_15
+!Sample_geo_accession = GSM3034077
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 29
+!Sample_characteristics_ch1 = height: 1.68
+!Sample_characteristics_ch1 = body weight: 67.4
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.069
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 45.5
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034077/suppl/GSM3034077_18Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034077/suppl/GSM3034077_18Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.26934
+TC01000002.hg.1	3.63092
+TC01000003.hg.1	3.4263
+TC01000004.hg.1	2.88514
+TC01000005.hg.1	9.61176
+TC01000006.hg.1	17.3599
+TC01000007.hg.1	15.4071
+TC01000008.hg.1	6.47161
+TC01000009.hg.1	4.19021
+TC01000010.hg.1	3.21466
+TC01000011.hg.1	5.43624
+TC01000012.hg.1	4.70829
+TC01000013.hg.1	17.1387
+TC01000014.hg.1	3.33746
+TC01000015.hg.1	4.4961
+TC01000016.hg.1	4.49361
+TC01000017.hg.1	3.12746
+TC01000018.hg.1	8.23647
+TC01000019.hg.1	4.00854
+TC01000020.hg.1	3.96144
+!sample_table_end
+^SAMPLE = GSM3034078
+!Sample_title = 19Pa: PBMC RNA_baseline_16
+!Sample_geo_accession = GSM3034078
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 25
+!Sample_characteristics_ch1 = height: 1.67
+!Sample_characteristics_ch1 = body weight: 65.4
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.152
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 48.2
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034078/suppl/GSM3034078_19Pa.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034078/suppl/GSM3034078_19Pa.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	10.9289
+TC01000002.hg.1	3.67744
+TC01000003.hg.1	3.34817
+TC01000004.hg.1	3.53248
+TC01000005.hg.1	11.125
+TC01000006.hg.1	18.0774
+TC01000007.hg.1	16.9389
+TC01000008.hg.1	7.59196
+TC01000009.hg.1	3.74414
+TC01000010.hg.1	3.24216
+TC01000011.hg.1	5.0584
+TC01000012.hg.1	4.29387
+TC01000013.hg.1	18.0076
+TC01000014.hg.1	3.40099
+TC01000015.hg.1	4.4952
+TC01000016.hg.1	4.27622
+TC01000017.hg.1	3.35002
+TC01000018.hg.1	7.84845
+TC01000019.hg.1	4.25968
+TC01000020.hg.1	3.90801
+!sample_table_end
+^SAMPLE = GSM3034079
+!Sample_title = 1Pb: PBMC RNA_posttraining_1
+!Sample_geo_accession = GSM3034079
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 27
+!Sample_characteristics_ch1 = height: 1.81
+!Sample_characteristics_ch1 = body weight: 80.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.571
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 56.7
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034079/suppl/GSM3034079_1Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034079/suppl/GSM3034079_1Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.16002
+TC01000002.hg.1	3.70255
+TC01000003.hg.1	2.95789
+TC01000004.hg.1	3.24394
+TC01000005.hg.1	11.0463
+TC01000006.hg.1	17.6054
+TC01000007.hg.1	17.7885
+TC01000008.hg.1	8.32583
+TC01000009.hg.1	3.78274
+TC01000010.hg.1	3.05759
+TC01000011.hg.1	5.08817
+TC01000012.hg.1	4.27064
+TC01000013.hg.1	11.9731
+TC01000014.hg.1	3.56366
+TC01000015.hg.1	4.82596
+TC01000016.hg.1	6.63868
+TC01000017.hg.1	3.16027
+TC01000018.hg.1	7.50786
+TC01000019.hg.1	3.35585
+TC01000020.hg.1	3.77359
+!sample_table_end
+^SAMPLE = GSM3034080
+!Sample_title = 2Pb: PBMC RNA_posttraining_2
+!Sample_geo_accession = GSM3034080
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 19
+!Sample_characteristics_ch1 = height: 1.91
+!Sample_characteristics_ch1 = body weight: 93.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 5.328
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 56.9
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034080/suppl/GSM3034080_2Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034080/suppl/GSM3034080_2Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.72873
+TC01000002.hg.1	3.82593
+TC01000003.hg.1	3.10844
+TC01000004.hg.1	2.98871
+TC01000005.hg.1	10.8792
+TC01000006.hg.1	18.2362
+TC01000007.hg.1	17.5813
+TC01000008.hg.1	8.86811
+TC01000009.hg.1	3.7751
+TC01000010.hg.1	3.00161
+TC01000011.hg.1	5.35005
+TC01000012.hg.1	3.98682
+TC01000013.hg.1	13.4634
+TC01000014.hg.1	3.07544
+TC01000015.hg.1	5.68268
+TC01000016.hg.1	7.68586
+TC01000017.hg.1	3.09328
+TC01000018.hg.1	8.19327
+TC01000019.hg.1	3.93104
+TC01000020.hg.1	3.86486
+!sample_table_end
+^SAMPLE = GSM3034081
+!Sample_title = 3Pb: PBMC RNA_posttraining_3
+!Sample_geo_accession = GSM3034081
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 21
+!Sample_characteristics_ch1 = height: 1.77
+!Sample_characteristics_ch1 = body weight: 83.0
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.045
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 48.7
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034081/suppl/GSM3034081_3Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034081/suppl/GSM3034081_3Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	10.4205
+TC01000002.hg.1	3.75007
+TC01000003.hg.1	3.34942
+TC01000004.hg.1	3.41506
+TC01000005.hg.1	9.40228
+TC01000006.hg.1	17.4741
+TC01000007.hg.1	16.8328
+TC01000008.hg.1	8.61351
+TC01000009.hg.1	4.05023
+TC01000010.hg.1	3.02309
+TC01000011.hg.1	4.91806
+TC01000012.hg.1	4.19844
+TC01000013.hg.1	11.6564
+TC01000014.hg.1	3.45386
+TC01000015.hg.1	4.60213
+TC01000016.hg.1	5.91405
+TC01000017.hg.1	3.37933
+TC01000018.hg.1	8.37622
+TC01000019.hg.1	3.7899
+TC01000020.hg.1	3.93585
+!sample_table_end
+^SAMPLE = GSM3034082
+!Sample_title = 6Pb: PBMC RNA_posttraining_4
+!Sample_geo_accession = GSM3034082
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 30
+!Sample_characteristics_ch1 = height: 1.79
+!Sample_characteristics_ch1 = body weight: 69.7
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.849
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 55.2
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034082/suppl/GSM3034082_6Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034082/suppl/GSM3034082_6Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	10.0112
+TC01000002.hg.1	3.64659
+TC01000003.hg.1	2.90405
+TC01000004.hg.1	3.33993
+TC01000005.hg.1	10.0692
+TC01000006.hg.1	17.7198
+TC01000007.hg.1	15.9508
+TC01000008.hg.1	7.45549
+TC01000009.hg.1	3.24004
+TC01000010.hg.1	3.28344
+TC01000011.hg.1	4.8566
+TC01000012.hg.1	4.43694
+TC01000013.hg.1	14.9095
+TC01000014.hg.1	3.31542
+TC01000015.hg.1	4.32962
+TC01000016.hg.1	3.95891
+TC01000017.hg.1	3.21025
+TC01000018.hg.1	8.24687
+TC01000019.hg.1	4.19511
+TC01000020.hg.1	4.1287
+!sample_table_end
+^SAMPLE = GSM3034083
+!Sample_title = 7Pb: PBMC RNA_posttraining_5
+!Sample_geo_accession = GSM3034083
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 22
+!Sample_characteristics_ch1 = height: 1.78
+!Sample_characteristics_ch1 = body weight: 66.3
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.060
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 61.2
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034083/suppl/GSM3034083_7Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034083/suppl/GSM3034083_7Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	12.1009
+TC01000002.hg.1	3.61413
+TC01000003.hg.1	2.95175
+TC01000004.hg.1	2.98834
+TC01000005.hg.1	10.6146
+TC01000006.hg.1	17.784
+TC01000007.hg.1	17.1138
+TC01000008.hg.1	9.32905
+TC01000009.hg.1	3.25913
+TC01000010.hg.1	3.03807
+TC01000011.hg.1	5.71369
+TC01000012.hg.1	3.81459
+TC01000013.hg.1	14.042
+TC01000014.hg.1	2.78196
+TC01000015.hg.1	5.27347
+TC01000016.hg.1	7.72086
+TC01000017.hg.1	3.03604
+TC01000018.hg.1	8.11574
+TC01000019.hg.1	3.79567
+TC01000020.hg.1	3.7223
+!sample_table_end
+^SAMPLE = GSM3034084
+!Sample_title = 8Pb: PBMC RNA_posttraining_6
+!Sample_geo_accession = GSM3034084
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, pretraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 21
+!Sample_characteristics_ch1 = height: 1.90
+!Sample_characteristics_ch1 = body weight: 71.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.390
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 61.3
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034084/suppl/GSM3034084_8Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034084/suppl/GSM3034084_8Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.96745
+TC01000002.hg.1	3.53256
+TC01000003.hg.1	2.90378
+TC01000004.hg.1	3.36613
+TC01000005.hg.1	10.3567
+TC01000006.hg.1	17.6958
+TC01000007.hg.1	16.6573
+TC01000008.hg.1	8.19993
+TC01000009.hg.1	3.46367
+TC01000010.hg.1	3.31746
+TC01000011.hg.1	5.26271
+TC01000012.hg.1	3.82801
+TC01000013.hg.1	14.0175
+TC01000014.hg.1	3.39149
+TC01000015.hg.1	5.12603
+TC01000016.hg.1	7.09544
+TC01000017.hg.1	3.20129
+TC01000018.hg.1	7.85753
+TC01000019.hg.1	3.99856
+TC01000020.hg.1	3.91527
+!sample_table_end
+^SAMPLE = GSM3034085
+!Sample_title = 9Pb: PBMC RNA_posttraining_7
+!Sample_geo_accession = GSM3034085
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 27
+!Sample_characteristics_ch1 = height: 1.81
+!Sample_characteristics_ch1 = body weight: 91.9
+!Sample_characteristics_ch1 = vo2peak (l/min): 5.191
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 56.5
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034085/suppl/GSM3034085_9Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034085/suppl/GSM3034085_9Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	11.2269
+TC01000002.hg.1	3.55774
+TC01000003.hg.1	3.31444
+TC01000004.hg.1	2.92511
+TC01000005.hg.1	11.138
+TC01000006.hg.1	18.669
+TC01000007.hg.1	17.5655
+TC01000008.hg.1	7.16251
+TC01000009.hg.1	3.29423
+TC01000010.hg.1	2.98104
+TC01000011.hg.1	4.56653
+TC01000012.hg.1	3.88693
+TC01000013.hg.1	17.6051
+TC01000014.hg.1	3.14333
+TC01000015.hg.1	4.46267
+TC01000016.hg.1	4.25711
+TC01000017.hg.1	3.28392
+TC01000018.hg.1	8.43516
+TC01000019.hg.1	3.75158
+TC01000020.hg.1	3.86433
+!sample_table_end
+^SAMPLE = GSM3034086
+!Sample_title = 10Pb: PBMC RNA_posttraining_8
+!Sample_geo_accession = GSM3034086
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 29
+!Sample_characteristics_ch1 = height: 1.65
+!Sample_characteristics_ch1 = body weight: 73.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.791
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 51.5
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034086/suppl/GSM3034086_10Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034086/suppl/GSM3034086_10Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.00901
+TC01000002.hg.1	3.80647
+TC01000003.hg.1	2.88151
+TC01000004.hg.1	2.96732
+TC01000005.hg.1	11.0501
+TC01000006.hg.1	18.25
+TC01000007.hg.1	17.0121
+TC01000008.hg.1	8.68122
+TC01000009.hg.1	3.07335
+TC01000010.hg.1	3.04428
+TC01000011.hg.1	5.02915
+TC01000012.hg.1	4.29621
+TC01000013.hg.1	11.6969
+TC01000014.hg.1	3.25475
+TC01000015.hg.1	5.32923
+TC01000016.hg.1	7.1458
+TC01000017.hg.1	3.16661
+TC01000018.hg.1	8.01337
+TC01000019.hg.1	4.07889
+TC01000020.hg.1	3.86893
+!sample_table_end
+^SAMPLE = GSM3034087
+!Sample_title = 12Pb: PBMC RNA_posttraining_9
+!Sample_geo_accession = GSM3034087
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 28
+!Sample_characteristics_ch1 = height: 1.77
+!Sample_characteristics_ch1 = body weight: 87.8
+!Sample_characteristics_ch1 = vo2peak (l/min): 5.271
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 60.0
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034087/suppl/GSM3034087_12Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034087/suppl/GSM3034087_12Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.85355
+TC01000002.hg.1	3.68009
+TC01000003.hg.1	2.85842
+TC01000004.hg.1	3.06857
+TC01000005.hg.1	11.6211
+TC01000006.hg.1	18.1975
+TC01000007.hg.1	17.2634
+TC01000008.hg.1	7.79329
+TC01000009.hg.1	2.8843
+TC01000010.hg.1	3.00618
+TC01000011.hg.1	4.8068
+TC01000012.hg.1	3.82649
+TC01000013.hg.1	15.2833
+TC01000014.hg.1	3.50341
+TC01000015.hg.1	4.67207
+TC01000016.hg.1	5.86006
+TC01000017.hg.1	3.2014
+TC01000018.hg.1	8.32171
+TC01000019.hg.1	3.62448
+TC01000020.hg.1	3.78955
+!sample_table_end
+^SAMPLE = GSM3034088
+!Sample_title = 13Pb: PBMC RNA_posttraining_10
+!Sample_geo_accession = GSM3034088
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 28
+!Sample_characteristics_ch1 = height: 1.64
+!Sample_characteristics_ch1 = body weight: 55.8
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.778
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 67.7
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034088/suppl/GSM3034088_13Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034088/suppl/GSM3034088_13Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.36662
+TC01000002.hg.1	3.2107
+TC01000003.hg.1	2.77211
+TC01000004.hg.1	3.05433
+TC01000005.hg.1	9.81019
+TC01000006.hg.1	17.0553
+TC01000007.hg.1	15.6917
+TC01000008.hg.1	9.071
+TC01000009.hg.1	3.26402
+TC01000010.hg.1	3.213
+TC01000011.hg.1	5.24706
+TC01000012.hg.1	3.95378
+TC01000013.hg.1	11.4975
+TC01000014.hg.1	3.22655
+TC01000015.hg.1	5.30264
+TC01000016.hg.1	7.15244
+TC01000017.hg.1	3.35772
+TC01000018.hg.1	7.88505
+TC01000019.hg.1	3.76934
+TC01000020.hg.1	3.73774
+!sample_table_end
+^SAMPLE = GSM3034089
+!Sample_title = 14Pb: PBMC RNA_posttraining_11
+!Sample_geo_accession = GSM3034089
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 28
+!Sample_characteristics_ch1 = height: 1.73
+!Sample_characteristics_ch1 = body weight: 89.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.073
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 45.5
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034089/suppl/GSM3034089_14Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034089/suppl/GSM3034089_14Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	6.8759
+TC01000002.hg.1	3.4906
+TC01000003.hg.1	2.8824
+TC01000004.hg.1	3.28683
+TC01000005.hg.1	10.0628
+TC01000006.hg.1	17.6617
+TC01000007.hg.1	16.9708
+TC01000008.hg.1	8.94787
+TC01000009.hg.1	3.46369
+TC01000010.hg.1	3.44979
+TC01000011.hg.1	6.10755
+TC01000012.hg.1	3.92451
+TC01000013.hg.1	11.7247
+TC01000014.hg.1	3.14996
+TC01000015.hg.1	5.01879
+TC01000016.hg.1	6.82711
+TC01000017.hg.1	2.89719
+TC01000018.hg.1	8.3194
+TC01000019.hg.1	3.66431
+TC01000020.hg.1	3.73628
+!sample_table_end
+^SAMPLE = GSM3034090
+!Sample_title = 15Pb: PBMC RNA_posttraining_12
+!Sample_geo_accession = GSM3034090
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 27
+!Sample_characteristics_ch1 = height: 1.68
+!Sample_characteristics_ch1 = body weight: 56.4
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.444
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 61.1
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034090/suppl/GSM3034090_15Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034090/suppl/GSM3034090_15Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	8.52809
+TC01000002.hg.1	3.40285
+TC01000003.hg.1	2.74398
+TC01000004.hg.1	3.02526
+TC01000005.hg.1	11.2474
+TC01000006.hg.1	18.2331
+TC01000007.hg.1	17.2538
+TC01000008.hg.1	8.52149
+TC01000009.hg.1	3.10499
+TC01000010.hg.1	2.86372
+TC01000011.hg.1	4.87012
+TC01000012.hg.1	3.66606
+TC01000013.hg.1	13.4234
+TC01000014.hg.1	3.31489
+TC01000015.hg.1	4.92643
+TC01000016.hg.1	6.71188
+TC01000017.hg.1	3.19104
+TC01000018.hg.1	8.15931
+TC01000019.hg.1	3.6424
+TC01000020.hg.1	3.71634
+!sample_table_end
+^SAMPLE = GSM3034091
+!Sample_title = 16Pb: PBMC RNA_posttraining_13
+!Sample_geo_accession = GSM3034091
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 30
+!Sample_characteristics_ch1 = height: 1.74
+!Sample_characteristics_ch1 = body weight: 75.6
+!Sample_characteristics_ch1 = vo2peak (l/min): 4.473
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 59.2
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034091/suppl/GSM3034091_16Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034091/suppl/GSM3034091_16Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	7.58981
+TC01000002.hg.1	3.54481
+TC01000003.hg.1	2.84186
+TC01000004.hg.1	3.29113
+TC01000005.hg.1	11.6018
+TC01000006.hg.1	18.4174
+TC01000007.hg.1	17.7818
+TC01000008.hg.1	9.0752
+TC01000009.hg.1	3.21425
+TC01000010.hg.1	3.3949
+TC01000011.hg.1	5.31974
+TC01000012.hg.1	3.92578
+TC01000013.hg.1	12.5648
+TC01000014.hg.1	3.12826
+TC01000015.hg.1	5.34189
+TC01000016.hg.1	7.38373
+TC01000017.hg.1	3.37433
+TC01000018.hg.1	8.73752
+TC01000019.hg.1	3.77419
+TC01000020.hg.1	3.79092
+!sample_table_end
+^SAMPLE = GSM3034092
+!Sample_title = 17Pb: PBMC RNA_posttraining_14
+!Sample_geo_accession = GSM3034092
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 22
+!Sample_characteristics_ch1 = height: 1.84
+!Sample_characteristics_ch1 = body weight: 92.3
+!Sample_characteristics_ch1 = vo2peak (l/min): 5.068
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 54.9
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034092/suppl/GSM3034092_17Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034092/suppl/GSM3034092_17Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	7.42503
+TC01000002.hg.1	3.3708
+TC01000003.hg.1	2.92889
+TC01000004.hg.1	3.98369
+TC01000005.hg.1	11.2421
+TC01000006.hg.1	17.8778
+TC01000007.hg.1	16.9064
+TC01000008.hg.1	7.74896
+TC01000009.hg.1	3.30427
+TC01000010.hg.1	3.2204
+TC01000011.hg.1	5.2761
+TC01000012.hg.1	4.04068
+TC01000013.hg.1	15.3573
+TC01000014.hg.1	4.23784
+TC01000015.hg.1	4.5763
+TC01000016.hg.1	5.87423
+TC01000017.hg.1	3.32418
+TC01000018.hg.1	8.00165
+TC01000019.hg.1	3.88309
+TC01000020.hg.1	3.78567
+!sample_table_end
+^SAMPLE = GSM3034093
+!Sample_title = 18Pb: PBMC RNA_posttraining_15
+!Sample_geo_accession = GSM3034093
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 29
+!Sample_characteristics_ch1 = height: 1.68
+!Sample_characteristics_ch1 = body weight: 64.9
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.644
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 56.1
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034093/suppl/GSM3034093_18Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034093/suppl/GSM3034093_18Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.14021
+TC01000002.hg.1	3.45783
+TC01000003.hg.1	3.128
+TC01000004.hg.1	3.44675
+TC01000005.hg.1	11.0333
+TC01000006.hg.1	17.8737
+TC01000007.hg.1	16.7158
+TC01000008.hg.1	7.53333
+TC01000009.hg.1	3.57627
+TC01000010.hg.1	3.41647
+TC01000011.hg.1	4.85586
+TC01000012.hg.1	3.8056
+TC01000013.hg.1	17.2666
+TC01000014.hg.1	3.48302
+TC01000015.hg.1	4.57185
+TC01000016.hg.1	4.42717
+TC01000017.hg.1	3.17197
+TC01000018.hg.1	8.06387
+TC01000019.hg.1	4.12817
+TC01000020.hg.1	3.86368
+!sample_table_end
+^SAMPLE = GSM3034094
+!Sample_title = 19Pb: PBMC RNA_posttraining_16
+!Sample_geo_accession = GSM3034094
+!Sample_status = Public on Mar 13 2018
+!Sample_submission_date = Mar 08 2018
+!Sample_last_update_date = Mar 13 2018
+!Sample_type = RNA
+!Sample_channel_count = 1
+!Sample_source_name_ch1 = PBMCs, posttraining, resting state
+!Sample_organism_ch1 = Homo sapiens
+!Sample_taxid_ch1 = 9606
+!Sample_characteristics_ch1 = tissue: peripheral blood mononuclear cells (PBMCs)
+!Sample_characteristics_ch1 = gender: male
+!Sample_characteristics_ch1 = age: 25
+!Sample_characteristics_ch1 = height: 1.67
+!Sample_characteristics_ch1 = body weight: 67.3
+!Sample_characteristics_ch1 = vo2peak (l/min): 3.509
+!Sample_characteristics_ch1 = vo2peak (ml/min/kg): 52.1
+!Sample_treatment_protocol_ch1 = Blood was collected in EDTA tubes.
+!Sample_molecule_ch1 = total RNA
+!Sample_extract_protocol_ch1 = RNA extraction from EDTA tubes was performed within two hours after collection.Peripheral blood mononuclear cells (PBMCs) isolated with Ficoll-Paque™ (GE Healthcare, Fairfield, CT) using TRIzol reagent (Invitrogen, Waltham, MA). RNA was purified in RNeasy columns (Qiagen, Germantown, MD) and treated with RNase-Free DNase Set (Qiagen)
+!Sample_label_ch1 = biotin
+!Sample_label_protocol_ch1 = Affymetrix standard procedure.
+!Sample_hyb_protocol = Affymetrix standard procedure in Gene Chip Human Transcriptome Array 2.0
+!Sample_scan_protocol = Affymetrix standard procedure.
+!Sample_description = Fasting blood samples were withdrawn at baseline and after the 18-weeks exercise training protocol, 48 hours after the last exercise session
+!Sample_data_processing = The raw data were preprocessed in Expression Console (Affymetrix). RMA algorithm was used. Only transcripts that had detection above background with p≤0.05 and were expressed in ≥25% of arrays in both conditions (pre- and post-training) were selected for further analysis. Overall, 49372 to 62620 out of 67539 transcripts represented on the arrays met these criteria. Transcriptome Analysis Console (TAC, Affymetrix) was used for this step.  Differentially expressed transcripts in response to exercise training were identified in TAC using ANOVA, with FDR method. When no transcript reached a significance q value of 0.05 in the FDR test, only transcripts with P<0.05 (ANOVA) and fold change (FC) above ±1.5 were retained.
+!Sample_platform_id = GPL17586
+!Sample_contact_name = Michelle Sabrina,,Moreira Silva
+!Sample_contact_email = missabrina@gmail.com
+!Sample_contact_phone = 551126615511
+!Sample_contact_institute = Heart Institute - InCor
+!Sample_contact_address = Av. Dr. Enéas de Carvalho Aguiar
+!Sample_contact_city = São Paulo
+!Sample_contact_state = SP
+!Sample_contact_zip/postal_code = 05403-900
+!Sample_contact_country = Brazil
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034094/suppl/GSM3034094_19Pb.CEL.gz
+!Sample_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3034nnn/GSM3034094/suppl/GSM3034094_19Pb.sst-rma-gene-full.chp.gz
+!Sample_series_id = GSE111552
+!Sample_series_id = GSE111555
+!Sample_data_row_count = 70523
+#ID_REF = 
+#VALUE = Quantification
+!sample_table_begin
+ID_REF	VALUE
+TC01000001.hg.1	9.25258
+TC01000002.hg.1	3.39529
+TC01000003.hg.1	2.63585
+TC01000004.hg.1	3.24039
+TC01000005.hg.1	9.40688
+TC01000006.hg.1	16.6437
+TC01000007.hg.1	15.4722
+TC01000008.hg.1	8.88309
+TC01000009.hg.1	3.19968
+TC01000010.hg.1	3.50688
+TC01000011.hg.1	5.2029
+TC01000012.hg.1	3.82467
+TC01000013.hg.1	12.3447
+TC01000014.hg.1	3.63718
+TC01000015.hg.1	5.22281
+TC01000016.hg.1	7.61659
+TC01000017.hg.1	3.28861
+TC01000018.hg.1	8.30204
+TC01000019.hg.1	3.76705
+TC01000020.hg.1	3.84888
+!sample_table_end
